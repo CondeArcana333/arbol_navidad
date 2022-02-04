@@ -1,0 +1,2 @@
+a="holi "
+print(a)
